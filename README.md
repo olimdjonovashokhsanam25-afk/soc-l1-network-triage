@@ -1,17 +1,5 @@
 # SOC Tier 1 Network Traffic Triage & Packet Analysis
 
-## Executive Summary
-This project demonstrates Tier 1 Security Operations Center (SOC) network traffic capture, protocol filtering, log extraction, and incident documentation on Kali Linux. Using tcpdump, Wireshark, and tshark, I captured 13,755 packets over interface wlan0 (192.168.100.77/24) and triaged two simulated security alerts: an internal TCP SYN port scan and unencrypted HTTP credential transmission.
-
----
-
-## Lab Environment & Repository Structure
-* OS / Platform: Kali Linux Live (USB Persistence)
-* Capture Interface: wlan0 (192.168.100.77)
-* Target Gateway: 192.168.100.1
-* Tools Used: tcpdump, nmap, curl, Wireshark, tshark
-
-`text
 soc-l1-network-triage/
 ├── README.md
 ├── logs/
@@ -23,8 +11,7 @@ soc-l1-network-triage/
     ├── Screenshot_2026-11-26_13_57_06.png
     └── Screenshot_2026-11-26_14_00_54.png
 
-cat << 'EOF' > README.md
-# SOC Tier 1 Network Traffic Triage & Packet Analysis
+
 
 ## Executive Summary
 This project demonstrates Tier 1 Security Operations Center (SOC) network traffic capture, protocol filtering, log extraction, and incident documentation on Kali Linux. Using tcpdump, Wireshark, and tshark, I captured 13,755 packets over interface wlan0 (192.168.100.77/24) and triaged two simulated security alerts: an internal TCP SYN port scan and unencrypted HTTP credential transmission.
