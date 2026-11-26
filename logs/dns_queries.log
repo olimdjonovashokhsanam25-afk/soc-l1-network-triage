@@ -1,0 +1,106 @@
+2026-11-26T12:59:21.998009000+0000	192.168.100.77	safebrowsing.googleapis.com
+2026-11-26T12:59:21.998026000+0000	192.168.100.77	safebrowsing.googleapis.com
+2026-11-26T12:59:22.014328000+0000	192.168.100.77	firefox.settings.services.mozilla.com
+2026-11-26T12:59:22.014350000+0000	192.168.100.77	firefox.settings.services.mozilla.com
+2026-11-26T12:59:22.016545000+0000	192.168.100.77	content-signature-2.cdn.mozilla.net
+2026-11-26T12:59:22.135385000+0000	192.168.100.77	firefox-settings-attachments.cdn.mozilla.net
+2026-11-26T12:59:22.150604000+0000	192.168.100.77	normandy.cdn.mozilla.net
+2026-11-26T12:59:22.150616000+0000	192.168.100.77	normandy.cdn.mozilla.net
+2026-11-26T12:59:22.800410000+0000	192.168.100.77	classify-client.services.mozilla.com
+2026-11-26T12:59:22.800439000+0000	192.168.100.77	classify-client.services.mozilla.com
+2026-11-26T13:01:45.550517000+0000	192.168.100.77	firefox-settings-attachments.cdn.mozilla.net
+2026-11-26T13:01:45.550590000+0000	192.168.100.77	firefox-settings-attachments.cdn.mozilla.net
+2026-11-26T13:01:45.550598000+0000	192.168.100.77	firefox-settings-attachments.cdn.mozilla.net
+2026-11-26T13:02:35.488551000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:02:35.488584000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:03:17.600711000+0000	192.168.100.77	_https._tcp.metadata.ftp-master.debian.org
+2026-11-26T13:03:17.616452000+0000	192.168.100.77	metadata.ftp-master.debian.org
+2026-11-26T13:03:17.616481000+0000	192.168.100.77	metadata.ftp-master.debian.org
+2026-11-26T13:03:20.776979000+0000	192.168.100.77	_https._tcp.metadata.ftp-master.debian.org
+2026-11-26T13:03:20.796988000+0000	192.168.100.77	metadata.ftp-master.debian.org
+2026-11-26T13:03:20.797015000+0000	192.168.100.77	metadata.ftp-master.debian.org
+2026-11-26T13:03:23.628145000+0000	192.168.100.77	content-signature-2.cdn.mozilla.net
+2026-11-26T13:06:29.436729000+0000	192.168.100.77	content-signature-2.cdn.mozilla.net
+2026-11-26T13:10:52.909723000+0000	192.168.100.77	content-signature-2.cdn.mozilla.net
+2026-11-26T13:12:19.819081000+0000	192.168.100.77	firefox-settings-attachments.cdn.mozilla.net
+2026-11-26T13:13:31.482349000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:13:31.482381000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:15:03.351719000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:16:31.841626000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:16:31.841655000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:17:43.300383000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:17:43.600900000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:17:43.600920000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:20:17.443207000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:20:17.443244000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:23:43.382177000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:23:43.382197000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:24:01.280323000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:01.280323000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:01.280323000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:01.280323000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:02.181717000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:02.181717000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:03.187246000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:03.187246000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:23.198265000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:23.198265000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:43.264438000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:24:43.264438000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:25:03.196678000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:25:03.197776000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:25:23.203490000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:25:23.203490000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:25:43.270842000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:25:43.270842000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:28:24.635723000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:28:24.635752000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:30:30.809591000+0000	192.168.100.77	safebrowsing.googleapis.com
+2026-11-26T13:34:13.872409000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:34:13.872442000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:34:14.978004000+0000	192.168.100.77	firefox.settings.services.mozilla.com
+2026-11-26T13:35:03.608476000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:35:03.608476000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:35:03.608476000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:35:03.608476000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:35:04.632100000+0000	192.168.100.3	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:35:04.632100000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:37:00.081347000+0000	192.168.100.77	firefox-settings-attachments.cdn.mozilla.net
+2026-11-26T13:39:45.109562000+0000	192.168.100.77	1.100.168.192.in-addr.arpa
+2026-11-26T13:42:03.826696000+0000	192.168.100.77	testphp.vulnweb.com
+2026-11-26T13:42:03.826735000+0000	192.168.100.77	testphp.vulnweb.com
+2026-11-26T13:43:57.833793000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:43:57.833795000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:43:57.833793000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:43:57.833796000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:43:58.746249000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:43:58.746249000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:43:59.784207000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:43:59.784209000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:44:19.748778000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:44:19.748784000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:44:39.750892000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:44:39.750894000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:45:19.856221000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:45:19.856225000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:45:39.766857000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:45:39.766858000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:45:40.749455000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:45:40.749488000+0000	192.168.100.77	push.services.mozilla.com
+2026-11-26T13:45:41.834203000+0000	192.168.100.77	firefox.settings.services.mozilla.com
+2026-11-26T13:45:59.783653000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:45:59.783838000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:46:19.784474000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:46:19.785840000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:46:39.831611000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:46:39.831613000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:46:59.908718000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:46:59.908720000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:47:19.869992000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:47:19.869995000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:47:39.838159000+0000	192.168.100.8	_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:47:39.838161000+0000		_googlecast._tcp.local,_CC1AD845._sub._googlecast._tcp.local
+2026-11-26T13:48:49.170425000+0000	192.168.100.77	normandy.cdn.mozilla.net
+2026-11-26T13:48:49.554444000+0000	192.168.100.77	classify-client.services.mozilla.com
+2026-11-26T13:48:55.228209000+0000	192.168.100.77	firefox.settings.services.mozilla.com
+2026-11-26T13:48:55.944477000+0000	192.168.100.77	content-signature-2.cdn.mozilla.net
